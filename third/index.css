@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+header { 
+    height: 15vh;
+    width: 100%;
+    background: lightgray
+
+}
+.inside {
+    float: left;
+    width: 10%;
+    height: 12vh;
+    background: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.one {
+    height: 25vh;
+    width: 100%;
+    background: white;
+
+}
+.two {
+    height: 15vh;
+    width: 100%;
+    background: skyblue;
+}
+.three {
+    height: 15vh;
+    width: 100%;
+    background: aqua;
+}
+.four {
+    height: 15vh;
+    width: 100%;
+    background: lime;
+}
+.five {
+    height: 15vh;
+    width: 100%;
+    background: rgb(213, 255, 128);
+}
+
+p {
+    text-align: center;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-size: 25px;
+    font-family: 'Shadows Into Light', cursive;
+}
+

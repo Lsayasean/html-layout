@@ -1,0 +1,63 @@
+body {
+    width: 100%;
+    height: 100vh;
+    background: whitesmoke;
+    margin: 8px;
+ }
+ .toprectangle {
+     border: solid 5px;
+     width: 80%;
+     height: 33vh;
+     margin: 0px auto;
+ }
+ .purplebox {
+     height: 60%;
+     width: 30px;
+     background-color: purple;
+     margin-top: 10vh;
+     margin-left: 10px;
+     float: left;
+ }
+ .greenbox {
+    height: 80%;
+    width: 30%;
+    background-color: green;
+    float: left;
+    margin-left: 30px;
+    margin-top: 3.5vh;
+ }
+ .bluecircle {
+     height: 80%;
+     width: 18%;
+     background-color: skyblue;
+     margin-left: 33vw;
+     margin-top: 3.5vh;
+     border-radius: 50%;
+ }
+ .middlerectangle {
+    border: dotted 5px;
+    width: 80%;
+    height: 33vh;
+    margin: 10px auto;
+ }
+ .shadowbox {
+     width: 80%;
+     height: 80%;
+     margin: 0px auto;
+     background-color: peachpuff;
+     margin-top: 2%;
+     box-shadow:  5px 5px 2px 2px gray;
+ }
+ .bottomrectangle {
+     width: 30%;
+     height: 20vh;
+     box-shadow:  5px 5px 1px 1px gray;
+     margin: 0 auto;
+     border: solid 2px lightgray;
+
+ }
+ p {
+    text-align: center;
+    word-spacing: 0px;
+    padding-top: 12%;
+ }
